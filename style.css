@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-color: #70a41a;
   text-align: center;
   color: navy;
   margin: auto;
@@ -16,10 +16,8 @@ h1{
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
-  background-size: 600px 400px;
-  border-radius: 300px;
-  border: 5px solid white;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/8/89/The_field_%283514290419%29.jpg");
+  background-size: 1500px 800px;
 }
 
 
