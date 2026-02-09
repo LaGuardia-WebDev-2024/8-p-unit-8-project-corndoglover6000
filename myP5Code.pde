@@ -76,7 +76,7 @@ var secondLine = function(){
   fill(9, 87, 97);
   text("couldn't drag me away,,,", secondLineX, 200);
   //wild, wild horses
-  //we'll ride the someday,,,,,,
+  //we'll ride them someday,,,,,,
 };
 
 
