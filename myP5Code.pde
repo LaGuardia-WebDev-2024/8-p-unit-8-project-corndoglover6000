@@ -17,6 +17,7 @@ var horseyyyY = random(600,800);
 
 
 
+
 //🟢draw Function - will run on repeat
 draw = function(){
   background(255,255,255,0);
@@ -65,13 +66,13 @@ var drawHorse = function(horseX, horseY){
   text("🐎", horseX, horseY);
 };
 
-var wildHorses = function(){
+var wildHorses = function(wildX){
   textSize(100);
   fill(9, 87, 97);
   text("wild horses,,,", wildX, 200);
 };
 
-var secondLine = function(){
+var secondLine = function(secondLineX){
   textSize(100);
   fill(9, 87, 97);
   text("couldn't drag me away,,,", secondLineX, 200);
