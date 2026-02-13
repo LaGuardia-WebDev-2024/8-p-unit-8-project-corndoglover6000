@@ -66,13 +66,13 @@ var drawHorse = function(horseX, horseY){
   text("🐎", horseX, horseY);
 };
 
-var wildHorses = function(wildX){
+var wildHorses = function(){
   textSize(100);
   fill(9, 87, 97);
   text("wild horses,,,", wildX, 200);
 };
 
-var secondLine = function(secondLineX){
+var secondLine = function(){
   textSize(100);
   fill(9, 87, 97);
   text("couldn't drag me away,,,", secondLineX, 200);
